@@ -18,3 +18,7 @@ Couple things you should know about this script:
 -CSV file must be a UTF-8 code;
 
 -click to submit;
+
+Demo -
+
+http://ttl.com.ua/works/dist/importcsv/

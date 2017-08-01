@@ -19,6 +19,4 @@ Couple things you should know about this script:
 
 -click to submit;
 
-Demo -
-
-http://ttl.com.ua/works/dist/importcsv/
+<a href="http://ttl.com.ua/works/dist/importcsv/">Demo</a>

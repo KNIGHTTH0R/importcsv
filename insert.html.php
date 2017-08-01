@@ -24,7 +24,7 @@
 		
 		<div class="row">
 			<div class="col-sm-6">
-				<form action="<?php echo $_SERVER['PHP_SELF']?>" method="post" enctype="multipart/form-data">
+				<form action="" method="post" enctype="multipart/form-data">
 					<div class="form-group row">
 						<div class="col-sm-12">
 							<input type="text" class="form-control" name="host" placeholder="Host or ip" autocomplete="off"/>

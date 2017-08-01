@@ -1,5 +1,4 @@
-# importcsv
-<h1>Import CSV to DataBase(MySQL) table</h1>
+# importcsv - Import CSV to DataBase(MySQL) table
 
 <a href="http://ttl.com.ua/works/dist/importcsv/">Demo</a>
 
